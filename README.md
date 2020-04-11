@@ -1,4 +1,4 @@
-# jenkins
+# jenkins DinD (Docker in Docker)
 
 Installation: Running the container
 
