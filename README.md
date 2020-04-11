@@ -8,4 +8,4 @@ After you have installed docker, run following to get Jenkins up and running.
 	    -v jenkins_home:/var/jenkins_home \
 	    -v /var/run/docker.sock:/var/run/docker.sock \
 	    --restart unless-stopped \
-	    4oh4/jenkins-docker
+	    syedcode1/jenkins
